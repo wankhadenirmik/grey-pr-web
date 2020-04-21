@@ -13,7 +13,7 @@ body {
 
 .profileBody {
     display: inline-block;
-    background:linear-gradient(to bottom left, orange,white, green);
+    background:white;
     margin-top: 6px;
     margin-left: 55px;
     width: 75%;
